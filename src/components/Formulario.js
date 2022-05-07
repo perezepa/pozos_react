@@ -126,7 +126,7 @@ const Formulario = ({ pozos, setPozos, pozo, setPozo }) => {
                 />
 
                 <label htmlFor="real">
-                    Tiempo Estimado (Días)
+                    Tiempo Real (Días)
                 </label>
                 <input
                     id="real"
